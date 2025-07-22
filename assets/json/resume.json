@@ -20,6 +20,18 @@
       "url": "https://twitter.com/john"
     }]
   },
+  "education": [{
+    "institution": "University of Liverpool",
+    "url": "https://www.liverpool.ac.uk/",
+    "area": "Grade: Distinction",
+    "studyType": "Masters - Economics",
+    "startDate": "2023-10-01",
+    "endDate": "2024-09-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
   "work": [{
     "name": "Company",
     "position": "President",
@@ -40,18 +52,6 @@
     "summary": "Description…",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
     ]
   }],
   "awards": [{
