@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio-Owen-Croft/repositories/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/portfolio-Owen-Croft/cv/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
