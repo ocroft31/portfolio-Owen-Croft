@@ -24,47 +24,97 @@
     "institution": "University of Liverpool",
     "url": "https://www.liverpool.ac.uk/",
     "area": "Grade: Distinction",
-    "studyType": "Masters - Economics",
+    "studyType": "MSc - Economics",
     "startDate": "2023-10-01",
     "endDate": "2024-09-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
+  },
+  {
+    "institution": "University of Liverpool",
+    "url": "https://www.liverpool.ac.uk/",
+    "area": "Grade: 1st Class",
+    "studyType": "BA - Business Economics",
+    "startDate": "2020-09-01",
+    "endDate": "2023-07-01",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
   }],
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "name": "University of Liverpool",
+    "position": "Graduate Researcher",
+    "url": "https://www.liverpool.ac.uk/",
+    "startDate": "2024-10-01",
+    "endDate": "",
+    "summary": "Description…",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "University of Liverpool Management School",
+    "position": "Student Ambassador",
+    "url": "https://www.liverpool.ac.uk/",
+    "startDate": "2023-06-01",
+    "endDate": "2024-10-01",
+    "summary": "Description…",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Jam Coding",
+    "position": "Code Coach",
+    "url": "https://jamcoding.com/",
+    "startDate": "2023-09-01",
+    "endDate": "2024-07-01",
+    "summary": "Description…",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "Star Kidz Entertainment",
+    "position": "Kids Entertainer",
+    "url": "https://starkidzparty.co.uk/",
+    "startDate": "2021-11-01",
+    "endDate": "2023-04-01",
     "summary": "Description…",
     "highlights": [
       "Started the company"
     ]
   }],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
+    "organization": "Volunteer Centre Sefton",
+    "position": "Covid-19 Vaccination Volunteer",
+    "url": "",
+    "startDate": "2021-02-01",
+    "endDate": "2021-04-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  },
+  {
+    "organization": "James' Place Charity",
+    "position": "Fundraiser",
+    "url": "",
+    "startDate": "2020-09-01",
+    "endDate": "2020-10-01",
     "summary": "Description…",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
+    "title": "ULMS Dean's 20th Anniversary Scholarship",
+    "date": "2023-10-01",
+    "awarder": "University of Liverpool",
     "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
   }],
   "publications": [{
     "name": "Publication",
@@ -81,21 +131,6 @@
       "CSS",
       "JavaScript"
     ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
   }],
   "projects": [{
     "name": "Project",
