@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:owencroft3112@gmail.com"><i class="fas fa-envelope"></i> owencroft3112@gmail.com</a></p>
-    <p><a href="https://linkedin.com/in/yourprofile"><i class="fab fa-linkedin"></i> Your LinkedIn Profile</a></p>
-    <p>Your City, State 12345</p>
+    <p><a href="https://www.linkedin.com/in/owen-croft-26l37/"><i class="fab fa-linkedin"></i> My LinkedIn Page </a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
