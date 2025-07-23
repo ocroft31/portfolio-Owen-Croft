@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Data collection from TransferMarkt.com
+description: Python code for a web scraper of TransferMarkt.com using BS4 and Requests 
 img: assets/img/3.jpg
 importance: 2
 category: work
