@@ -460,11 +460,6 @@ ninja.data = [{
           description: "A replication of a paper reviewing whether journalists&#39; ratings of footballers exhibit a degree of racial bias",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/portfolio-Owen-Croft/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
