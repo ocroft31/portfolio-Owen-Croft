@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
+title: Cats and Dogs Predictor
+description: Using Python and RNNs to create an image predictor
+img: assets/img/cats_and_dogs.jpg
+importance: 1
 category: Fun + Learning
 ---
 

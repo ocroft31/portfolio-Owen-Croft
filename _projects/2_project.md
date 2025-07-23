@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Data collection from TransferMarkt.com
+title: Data collection from TransferMarkt
 description: Python code for a web scraper of TransferMarkt.com using BS4 and Requests 
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/football.jpg
+importance: 3
 category: Academic
 giscus_comments: true
 ---

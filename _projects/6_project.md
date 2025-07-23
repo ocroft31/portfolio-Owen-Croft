@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Darts Scorer in C++
+description: Baseline darts scorer using C++ as a learning exercise
+img: assets/img/darts.jpg
+importance: 2
+category: Fun + Learning
 ---
 
 Every project has a beautiful feature showcase page.
