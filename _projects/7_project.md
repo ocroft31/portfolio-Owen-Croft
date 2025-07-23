@@ -4,7 +4,7 @@ title: Racial Bias in Footballer Ratings
 description: A replication of a paper reviewing whether journalists' ratings of footballers exhibit a degree of racial bias
 img: assets/img/italian newspapers.jpg
 importance: 1
-category: work
+category: Academic
 related_publications: true
 ---
 
