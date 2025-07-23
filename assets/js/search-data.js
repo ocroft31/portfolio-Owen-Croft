@@ -435,8 +435,8 @@ ninja.data = [{
           description: "An estimation of the determinants of demand within English women&#39;s football",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/1_project/";
-            },},{id: "projects-data-collection-from-transfermarkt-com",
-          title: 'Data collection from TransferMarkt.com',
+            },},{id: "projects-data-collection-from-transfermarkt",
+          title: 'Data collection from TransferMarkt',
           description: "Python code for a web scraper of TransferMarkt.com using BS4 and Requests",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/2_project/";
@@ -450,9 +450,9 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-darts-scorer-in-c",
+          title: 'Darts Scorer in C++',
+          description: "Baseline darts scorer using C++ as a learning exercise",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/6_project/";
             },},{id: "projects-racial-bias-in-footballer-ratings",
@@ -460,9 +460,9 @@ ninja.data = [{
           description: "A replication of a paper reviewing whether journalists&#39; ratings of footballers exhibit a degree of racial bias",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/7_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-cats-and-dogs-predictor",
+          title: 'Cats and Dogs Predictor',
+          description: "Using Python and RNNs to create an image predictor",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/9_project/";
             },},{
