@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A collection of projects I have worked on/completed.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio-Owen-Croft/projects/";
