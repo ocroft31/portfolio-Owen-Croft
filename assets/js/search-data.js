@@ -430,9 +430,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-wsl-attendance-demand",
+          title: 'WSL Attendance Demand',
+          description: "An estimation of the determinants of demand within English women&#39;s football",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/1_project/";
             },},{id: "projects-project-2",
