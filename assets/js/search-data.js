@@ -460,9 +460,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-racial-bias-in-footballer-ratings",
+          title: 'Racial Bias in Footballer Ratings',
+          description: "A replication of a paper reviewing whether journalists&#39; ratings of footballers exhibit a degree of racial bias",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/7_project/";
             },},{id: "projects-project-8",
