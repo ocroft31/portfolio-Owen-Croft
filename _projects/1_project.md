@@ -4,7 +4,7 @@ title: WSL Attendance Demand
 description: An estimation of the determinants of demand within English women's football
 img: assets/img/Arsenal-WSL.jpg
 importance: 1
-category: work
+category: Academic
 related_publications: true
 ---
 
