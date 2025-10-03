@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-center">
     <div class="col-13 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\italian newspapers cropped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/italian newspapers cropped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -38,7 +38,7 @@ A graphical analysis of the footballer ratings presents alot of interesting info
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\Kernel Densities - Ratings and wages.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/Kernel Densities - Ratings and wages.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -48,7 +48,7 @@ We see something similar when we look at the empirical cumulative distribution f
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\ECDF.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/ECDF.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -64,7 +64,7 @@ The results of the main statistical analysis is presented below. Reviewing the f
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\Main results.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/Main results.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -84,7 +84,7 @@ However, classifying a player as black if at least one player as black could the
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\Race Classification Robustness.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/Race Classification Robustness.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -96,7 +96,7 @@ The final sensitivity analysis from the original paper reviews whether racial bi
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\subsamples.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/subsamples.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -108,7 +108,7 @@ A final addition to the original paper corrects an error that was missed within 
 
 <div class="row justify-content-center">
     <div class="col-9 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\racial_bias\Removing missing data.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/racial_bias/Removing missing data.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

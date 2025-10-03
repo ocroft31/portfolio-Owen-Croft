@@ -2,7 +2,7 @@
 layout: page
 title: WSL Attendance Demand
 description: An empirical estimation of the determinants of demand within English women's football
-img: assets\img\Arsenal-WSL.jpg
+img: assets/img/Arsenal-WSL.jpg
 importance: 1
 category: Academic
 related_publications: false
@@ -46,7 +46,7 @@ Despite this, interest in the WSL is still far from its male counterpart, althou
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\attendance_across_leagues_1000_600.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/attendance_across_leagues_1000_600.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -61,7 +61,7 @@ To understand the factors that influence stadium attendance, we employ a range o
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\List of covariates.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/List of covariates.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -72,7 +72,7 @@ We find that the determinants that shape demand at women's football matches shar
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\Table 1 - Determinants of Attendance.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Table 1 - Determinants of Attendance.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -80,7 +80,7 @@ Moving to the main focus of the study, we review the effect of the men's team su
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\Table 2 - Male team spillover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Table 2 - Male team spillover.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -88,7 +88,7 @@ Finally, we investigate whether the success of the English women's national team
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\table 3 - intl effect.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/table 3 - intl effect.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

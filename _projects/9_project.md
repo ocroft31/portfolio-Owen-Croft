@@ -2,7 +2,7 @@
 layout: page
 title: Cats and Dogs Predictor
 description: Using Python and RNNs to create an image predictor
-img: assets\img\Page in Progress\Cats and Dogs - Page in Progress.png
+img: assets/img/Page in Progress/Cats and Dogs - Page in Progress.png
 importance: 1
 category: Fun + Learning
 ---

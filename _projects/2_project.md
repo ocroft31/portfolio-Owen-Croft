@@ -2,7 +2,7 @@
 layout: page
 title: Data collection from TransferMarkt
 description: Python code for a web scraper of TransferMarkt.com using BS4 and Requests 
-img: assets\img\football.jpg
+img: assets/img/football.jpg
 importance: 3
 category: Academic
 giscus_comments: false
@@ -10,7 +10,7 @@ giscus_comments: false
 
 <div class="row justify-content-center">
     <div class="col-13 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\data_collection_transfermarkt\football_cropped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/data_collection_transfermarkt/football_cropped.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -33,7 +33,7 @@ Transfermarkt is a widely used football statistics site where users input a rang
 
 <div class="row justify-content-center">
     <div class="col-12 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\transfermarkt\image 1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transfermarkt/image 1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -43,7 +43,7 @@ As we look to collect data for every player within each squad for the ten specif
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\transfermarkt\image 2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transfermarkt/image 2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -51,7 +51,7 @@ If we click on one of the teams, it gives us a table of all the listed members o
 
 <div class="row justify-content-center">
     <div class="col-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\transfermarkt\image 3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transfermarkt/image 3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -72,7 +72,7 @@ Fortunately, the web links for each page that we look to scrape are standardised
 
 <div class="row justify-content-center">
     <div class="col-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\transfermarkt\image 4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transfermarkt/image 4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -140,7 +140,7 @@ As we saw from the 2nd code snippet, this data is then saved into a CSV file for
 
 <div class="row justify-content-center">
     <div class="col-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\transfermarkt\image 5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/transfermarkt/image 5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
