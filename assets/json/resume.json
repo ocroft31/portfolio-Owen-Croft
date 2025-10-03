@@ -29,7 +29,7 @@
     "endDate": "2024-09-01",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Vice President - Trampolining Club"
     ]
   },
   {
@@ -41,18 +41,19 @@
     "endDate": "2023-07-01",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "President - Economics Society",
+      "Social Secretary - TaeKwon-Do Club"
     ]
   }],
   "work": [{
     "name": "University of Liverpool",
-    "position": "Graduate Researcher",
+    "position": "Graduate Researcher - Applied Economics",
     "url": "https://www.liverpool.ac.uk/",
     "startDate": "2024-10-01",
     "endDate": "",
-    "summary": "Description…",
+    "summary": "Conduct applied econometric research with a focus on sports and how to improve sports management. My research includes published work that analyses the determinants of demand for English women's football, generating suggestions on how football clubs and the English Football Association (FA) can improve attendance at women's football matches",
     "highlights": [
-      "Started the company"
+      "Started the company",
     ]
   },
   {
@@ -94,9 +95,9 @@
     "url": "",
     "startDate": "2021-02-01",
     "endDate": "2021-04-01",
-    "summary": "Description…",
+    "summary": "Volunteered at a Covid-19 vaccination site as a marshall",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Ensured a comfortable and santiatry environment for patients waiting to recieve their vaccine"
     ]
   },
   {
@@ -105,23 +106,15 @@
     "url": "",
     "startDate": "2020-09-01",
     "endDate": "2020-10-01",
-    "summary": "Description…",
+    "summary": "Completed a half marathon during the Covid-19 pandemic in benefit of the charity James' Place",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Exceeded target donation goal by 60%, raising £560"
     ]
   }],
   "awards": [{
     "title": "ULMS Dean's 20th Anniversary Scholarship",
     "date": "2023-10-01",
-    "awarder": "University of Liverpool",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "awarder": "University of Liverpool"
   }],
   "skills": [{
     "name": "Web Development",
@@ -131,15 +124,5 @@
       "CSS",
       "JavaScript"
     ]
-  }],
-  "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
   }]
 }

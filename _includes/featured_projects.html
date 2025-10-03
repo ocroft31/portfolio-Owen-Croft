@@ -1,0 +1,30 @@
+<div class="projects-carousel">
+  <div class="carousel-container">
+    <button class="carousel-btn prev" onclick="scrollCarousel(-1)">‹</button>
+    <div class="carousel-wrapper">
+      <div class="carousel-track" id="projectCarousel">
+        {% assign featured_projects = site.projects | sort: "importance" | limit: 6 %}
+        {% for project in featured_projects %}
+          <div class="carousel-item">
+            <div class="card hoverable">
+              {% if project.img %}
+              <img src="{{ project.img | relative_url }}" class="card-img-top" alt="{{ project.title }}">
+              {% endif %}
+              <div class="card-body">
+                <h5 class="card-title">{{ project.title }}</h5>
+                <p class="card-text">{{ project.description }}</p>
+                {% if project.github %}
+                <a href="{{ project.github }}" class="btn btn-sm z-depth-0" role="button">GitHub</a>
+                {% endif %}
+                {% if project.redirect %}
+                <a href="{{ project.redirect }}" class="btn btn-sm z-depth-0" role="button">View</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+    <button class="carousel-btn next" onclick="scrollCarousel(1)">›</button>
+  </div>
+</div>
