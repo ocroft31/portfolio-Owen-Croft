@@ -9,26 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/portfolio-Owen-Croft/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio-Owen-Croft/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A collection of projects I have worked on/completed.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/portfolio-Owen-Croft/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/portfolio-Owen-Croft/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -37,21 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/portfolio-Owen-Croft/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio-Owen-Croft/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/portfolio-Owen-Croft/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -432,7 +404,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-wsl-attendance-demand",
           title: 'WSL Attendance Demand',
-          description: "An estimation of the determinants of demand within English women&#39;s football",
+          description: "An empirical estimation of the determinants of demand within English women&#39;s football",
           section: "Projects",handler: () => {
               window.location.href = "/portfolio-Owen-Croft/projects/1_project/";
             },},{id: "projects-data-collection-from-transfermarkt",
